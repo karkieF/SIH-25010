@@ -48,6 +48,7 @@ Agriculture, FoodTech & Rural Development
 <ul><li> Farmers can upload photos of their crops to detect diseases. The app will also provide weather updates, market prices, and voice support for farmers who cannot read.
 ![proposed app](sih front end.jpg)
 </li></ul>
+![alt text](image.png)
 
 
 ## Technical Approach
@@ -64,7 +65,6 @@ App gives advice on crop and fertilizer.
 Farmer uploads crop photo → app checks for pests.
 App shows results in local language with voice option.
 Farmers get alerts about weather and market prices.
-![Technical Approach](Screenshot%202025-09-29%20204211-1.png)
 </li></ul>
 ## Feasibility and Viability
 <h3>Feasibility and Viability</h3>
