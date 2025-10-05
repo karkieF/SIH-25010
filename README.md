@@ -72,7 +72,6 @@ Farmers get alerts about weather and market prices.
 </li>
 <li>Solutions: Add offline mode, voice support, and conduct training workshops in villages
 ![alt text](<Screenshot flowchart.png>) 
-![alt text](<Screenshot 2025-09-29 204211.png>)
 </ul></li>
 
 ## Impact and Benefits
