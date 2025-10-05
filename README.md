@@ -46,11 +46,8 @@ Agriculture, FoodTech & Rural Development
 </li>
 <li>It will suggest which crop to grow, how much fertilizer to use, and how to control pests. </li>
 <ul><li> Farmers can upload photos of their crops to detect diseases. The app will also provide weather updates, market prices, and voice support for farmers who cannot read.
-![proposed app](sih front end.jpg)
 </li></ul>
-![alt text](image.png)
-
-
+![alt text](<Screenshot 2025-09-29 204211.png>)
 ## Technical Approach
 <h3>Technical Approach</h3>
 <ul><li>Mobile app (Android) for farmers
