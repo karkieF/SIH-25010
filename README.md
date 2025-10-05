@@ -71,7 +71,7 @@ Farmers get alerts about weather and market prices.
 <li>Challenges: Some farmers may not know how to use apps, and internet is weak in villages.
 </li>
 <li>Solutions: Add offline mode, voice support, and conduct training workshops in villages
-<b></b></ul></li>![alt text](image-1.png)
+<b>![alt text](image-1.png)</b></ul></li>
 
 ## Impact and Benefits
 <h3>Impact and Benefits</h3>
