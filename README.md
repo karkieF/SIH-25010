@@ -46,8 +46,10 @@ Agriculture, FoodTech & Rural Development
 </li>
 <li>It will suggest which crop to grow, how much fertilizer to use, and how to control pests. </li>
 <ul><li> Farmers can upload photos of their crops to detect diseases. The app will also provide weather updates, market prices, and voice support for farmers who cannot read.
+
 </li></ul>
-![alt text](<Screenshot 2025-09-29 204211.png>)
+
+
 ## Technical Approach
 <h3>Technical Approach</h3>
 <ul><li>Mobile app (Android) for farmers
@@ -68,7 +70,9 @@ Farmers get alerts about weather and market prices.
 <ul><li>Feasible: Most farmers now have smartphones</li>
 <li>Challenges: Some farmers may not know how to use apps, and internet is weak in villages.
 </li>
-<li>Solutions: Add offline mode, voice support, and conduct training workshops in villages</li></ul>
+<li>Solutions: Add offline mode, voice support, and conduct training workshops in villages
+<b>![alt text](<Screenshot 2025-09-29 204211.png>)</b>
+</li></ul>
 
 ## Impact and Benefits
 <h3>Impact and Benefits</h3>
